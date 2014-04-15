@@ -1,0 +1,19 @@
+{
+  "name": "boiling-node",
+  "description": "Tester node boilerplate, just playing around in the dirt.",
+  "version": "0.0.0",
+  "repository": { 
+    "type" : "git",
+    "url" : "https://github.com/toxinhead/boiling-node.git"
+  },
+  "dependencies": {
+    "express":              "4.0.0",
+    "grunt":                "0.4.2",
+    "grunt-contrib-clean" : "0.4.0",
+    "grunt-contrib-copy":   "0.5.0",
+    "grunt-contrib-uglify": "0.2.2",
+    "grunt-contrib-concat": "0.3.0",
+    "grunt-contrib-cssmin": "0.6.2",
+    "grunt-hashres":        "0.3.4"
+  }
+}
